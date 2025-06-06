@@ -22,7 +22,7 @@ CREATE TABLE `Dealerships` (
 # Table 2: Vehicles                                                      #
 # ---------------------------------------------------------------------- #
 CREATE TABLE `Vehicles` (
-    `VIN` VARCHAR(20) PRIMARY KEY NOT NULL,
+    `VIN` VARCHAR(20) PRIMARY KEY,
     `Year` YEAR NOT NULL,
     `Make` VARCHAR(20) NOT NULL,
     `Model` VARCHAR(20) NOT NULL,
