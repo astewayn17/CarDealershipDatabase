@@ -1,0 +1,1 @@
+-- 5. Find all Dealerships that have a certain car type (i.e. Red Ford Mustang) 
